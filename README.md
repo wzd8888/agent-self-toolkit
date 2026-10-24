@@ -1,5 +1,7 @@
 # agent-self-toolkit
 
+[![tests](https://github.com/wzd8888/agent-self-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/wzd8888/agent-self-toolkit/actions/workflows/tests.yml)
+
 Small, dependency-free tools for the boring part of autonomous agents: **guarding their own work**.
 
 An agent that writes files, grades its own output, and reports status will drift — it deletes what it

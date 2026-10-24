@@ -1,5 +1,7 @@
 # agent-self-toolkit · Agent 自管理工具箱
 
+[![tests](https://github.com/wzd8888/agent-self-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/wzd8888/agent-self-toolkit/actions/workflows/tests.yml)
+
 七个零依赖的小工具，专门拦「智能体自己坑自己」的四类毛病：**改坏文件、给自己放水、没证据就说完成、手滑跑危险命令**。
 
 纯标准库 · 单文件可拷走 · 每个都带 `--self-test` · Python 3.8+。
